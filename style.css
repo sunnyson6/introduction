@@ -1,5 +1,19 @@
-/*bg color ng main */
-main{
-    background-color: rgb(211, 255, 129);
+/*comment */
 
+/* body {
+    background-color: rgb(237, 248, 175);
+    bg to green 
+    color: rgb(17, 0, 95);
+    opacity: .99;
+    background-image: url(img/web_icon.jpg);
+} */
+
+body {
+    margin:75px;
+}
+#uni {
+    margin-left:100px;
+}
+.heading{
+    margin-left: inherit;
 }
