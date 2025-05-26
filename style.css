@@ -11,9 +11,14 @@
 body {
     margin:75px;
 }
-#uni {
-    margin-left:100px;
-}
-.heading{
-    margin-left: inherit;
+header {
+    /* display: none; */
+    background-color: rgb(251, 255, 0);
+    border: rgb(251, 255, 0) solid 2px;
+    border-radius: 15px; 
+    padding: 10px 0px;
+    height: 30%;
+    width: 70%;
+    font-family: Arial, Helvetica, sans-serif;
+    /* cursor: pointer; */
 }
