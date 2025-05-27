@@ -11,6 +11,9 @@
 body {
     margin:75px;
 }
+main {
+    margin:0px 50px;
+}
 header {
     /* display: none; */
     background-color: rgb(251, 255, 0);
@@ -18,7 +21,26 @@ header {
     border-radius: 15px; 
     padding: 10px 0px;
     height: 30%;
-    width: 70%;
+    width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     /* cursor: pointer; */
+}
+#pic{
+    height: auto;
+    width: 150px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+#intro{
+    display: flex;
+    align-items:center;
+}
+.text-content{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#contact-me{
+    text-align:right;
 }
